@@ -19,4 +19,9 @@ link2 : https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bssid
 
 Note : C# Source Code for  "managedwifi.dll"  is 
 
-link : 
+link : https://managedwifi.codeplex.com/SourceControl/latest
+
+
+if you want , you can Download this C# Source Code and make your own dll file its better than using this "managedwifi.dll" in github ...
+
+but this file is ok .... i hope ;)
