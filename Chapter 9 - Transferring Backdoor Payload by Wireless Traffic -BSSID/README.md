@@ -33,6 +33,10 @@ example System A : ./NativePayload_BSSID.sh -f mytext.txt myfakeAP Wlan3mon
 
 example System B : ./NativePayload_BSSID.sh -s wlan0 ExfilDumped.txt
 
+Description: with Step1 (system A) you will inject bytes for (mytext.txt) file to BSSID for Fake AP in this case (myfakeAP) , with Step2 on (system B) you can have this text file via Scanning Fake AP on AIR by Wireless traffic (Using iwlist tool)
+
+Note : before step1 you should make MonitorMode Interface (WlanXmon) by this command for example : airmon-ng start wlan3
+
 
 ![](https://github.com/DamonMohammadbagher/NativePayload_BSSID/blob/master/Chapter%209%20-%20Transferring%20Backdoor%20Payload%20by%20Wireless%20Traffic%20-BSSID/NativePayload_BSSID1.png)
 
