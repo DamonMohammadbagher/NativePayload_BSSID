@@ -1,16 +1,15 @@
 # Course : Bypassing Anti Viruses by C#.NET Programming
 
-Part 2 (Infil/Exfiltration/Transferring Techniques by C#)  , Chapter 8 : Transferring Backdoor Payloads by ARP Traffic
+Part 2 (Infil/Exfiltration/Transferring Techniques by C#)  , Chapter 9 : Transferring Backdoor Payload by Wireless Traffic (BSSID)
 
 eBook : Bypassing Anti Viruses by C#.NET Programming
 
-eBook chapter 8 , PDF Download : https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/tree/master/CH8
+eBook chapter 9 , PDF Download : https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/tree/master/CH9
 
 Related Video : 
 
-Video 1 C# Code : https://youtu.be/qDLicXj7Vuk
+Video 1 C# Code : https://youtu.be/W0dJGln3tls
 
-Video 2 (Linux only) Script Code : https://www.youtube.com/watch?v=O-llNZ9S8Mo
 
 
 
