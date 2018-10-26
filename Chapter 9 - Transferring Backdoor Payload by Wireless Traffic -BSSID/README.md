@@ -10,7 +10,7 @@ Related Video :
 
 Video 1 C# Code : https://youtu.be/W0dJGln3tls
 
-
+Video 2 Script Code : https://www.youtube.com/watch?v=i6Y5BmJXWko
 
 
 Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
