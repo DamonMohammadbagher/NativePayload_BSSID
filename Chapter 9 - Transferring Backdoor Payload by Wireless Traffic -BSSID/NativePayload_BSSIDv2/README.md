@@ -2,6 +2,8 @@
 
 Exfiltration via Wireless DeAuthentication Packets from Client to Server on AIR (without user-pass or Wifi Connection & very fast)
 
+Note: this code tested in kali linux systems (only).
+
 Article/Pdf and New video will Publish here soon...
 
 Video[1] , NativePayload_BSSID.sh v2 (step by step) : https://www.youtube.com/watch?v=rg-O4RKt9OA
