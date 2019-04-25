@@ -467,7 +467,7 @@ function ExfilDeauthDumps
 ########################################### ExfilDeauth v2 (receive) ############################
 
 ############################### ExfilDeauth v2 (Command-based send) ############################### 
-# ./NativePayload_BSSID.sh -exfildeauth text.txt "bssid" wlan1mon "7"
+# ./NativePayload_BSSID.sh -exfildeauth text.txt "bssid" wlan1 "7"
 # ./NativePayload_BSSID.sh -exfildeauth text.txt "00:11:22:33:44:55" wlan1 "7" "dbg"
 if [ $1 == "-exfildeauth" ];
 then
