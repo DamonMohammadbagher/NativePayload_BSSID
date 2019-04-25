@@ -1,5 +1,8 @@
 # NativePayload_BSSID.sh v2
 
+Article/Pdf and New video will Publish here soon...
+
+Video[1] , NativePayload_BSSID.sh v2 (step by step) : https://www.youtube.com/watch?v=rg-O4RKt9OA
 
 as you can see in this "Picture 1", with this switch "help" you can see Help information : ./NativePayload_BSSID.sh help 
 
@@ -76,3 +79,6 @@ as you can see in "Picture 3" after 5 seconds that text file "3.txt" Exfiltrated
 ![](https://github.com/DamonMohammadbagher/NativePayload_BSSID/blob/master/Chapter%209%20-%20Transferring%20Backdoor%20Payload%20by%20Wireless%20Traffic%20-BSSID/NativePayload_BSSIDv2/NativePayload_BSSID%20Step4.png)
 
 Article and Pdf File will Publish here soon...
+
+Video STEP BY STEP : https://www.youtube.com/watch?v=rg-O4RKt9OA
+
