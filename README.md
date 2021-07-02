@@ -28,3 +28,5 @@ link : https://managedwifi.codeplex.com/SourceControl/latest
 if you want , you can Download this C# Source Code and make your own dll file its better than using this "managedwifi.dll" in github ...
 
 but this file is ok .... i hope ;)
+
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_BSSID/"/></a></p>
